@@ -1,9 +1,11 @@
 📊 Customer Analysis Dashboard 
-![Image](https://github.com/user-attachments/assets/c2625cb9-00d1-4905-bfc5-9168abc38c03)
+
 📁 Project Overview
 This project presents an interactive Customer Analysis Dashboard built using Power BI.
 The dashboard provides a comprehensive view of customer behavior, revenue patterns, and sales performance across multiple dimensions such as region, age group, state, category, and gender.
 The goal of this project is to help businesses make data-driven decisions by understanding who their customers are, where revenue comes from, and how sales vary over time.
+
+![Image](https://github.com/user-attachments/assets/a7949075-52f8-47df-9b22-8368c24738bd)
 ________________________________________
 🎯 Key Insights
 📍 Revenue Percentage by Region
