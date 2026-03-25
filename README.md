@@ -44,6 +44,7 @@ ________________________________________
 •	Clean and modern dashboard design
 ________________________________________
 📷 Dashboard Preview
+
 https://github.com/user-attachments/assets/96f317d3-4780-4c7d-8281-20829c290fc7
 ________________________________________
 📌 How to Use
@@ -57,6 +58,11 @@ ________________________________________
 •	Predictive modeling for sales forecasting
 •	Incorporating R or Python visuals inside Power BI
 •	Adding drill-through pages for deeper insights
+
+Online Interactive Report : 
+
+https://public.tableau.com/app/profile/walaa.a.hafeez/viz/HRDashboard_17580005675500/HRSummary
+
 ________________________________________
 ✨ Author
 Walaa — Data Analyst
